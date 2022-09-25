@@ -1,0 +1,14 @@
+git config --global user.name "[name]"
+
+git config --global user.email "[email address]"
+
+=====> open the project local folder then open bash ==> write
+ git init
+
+ git add .
+
+ git commit -m "write your decription message"
+
+ git remote add origin https://github.com/kholudshokry0/first-uploading.git
+
+ git push origin master
